@@ -42,3 +42,9 @@
   flex-direction: column;
 }
 
+a{
+  all:unset; /* all:unset; retira todas as propriedades herdadas  */
+  cursor: pointer;
+  color: inherit;
+  display: inline-block;;
+}

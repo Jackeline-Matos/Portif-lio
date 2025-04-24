@@ -1,6 +1,7 @@
 header{
-  display: flex;
+  
   justify-content: center;
+  align-items: center;
  
 
   background-image: url(/assets/img/Background_Contacts.png);
@@ -13,10 +14,7 @@ header{
 
 #info-profile{
 
-  margin-top: 12rem;
-  height: 42,7rem;
-
-  section{
+  section {
     width: 68rem;
     align-items: center;
   }
