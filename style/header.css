@@ -24,6 +24,7 @@ header{
       border: solid var(--red);
       margin-bottom: 5.6rem;
       object-fit: contain;
+      padding: .5rem;
     
     }
 
