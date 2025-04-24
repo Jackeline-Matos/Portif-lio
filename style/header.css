@@ -4,7 +4,7 @@ header{
   align-items: center;
  
 
-  background-image: url(/assets/img/Background_Contacts.png);
+  background-image: url(/assets/img/Background_Intro.png);
   background-size: cover;
   width:100%;
   height: 75rem;
@@ -13,6 +13,8 @@ header{
 }
 
 #info-profile{
+
+
 
   section {
     width: 68rem;
