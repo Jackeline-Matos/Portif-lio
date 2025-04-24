@@ -1,7 +1,9 @@
 nav {
   width: 75.4rem;
   justify-content: center;
+
   gap:1.6rem;
+  margin-block-end: 9.2rem  ;
 
   
   div {
@@ -15,6 +17,8 @@ nav {
 
     gap:0.8rem;
     padding: .8rem 1.6rem .8rem 1.6rem;
+    
+
    
 
 
