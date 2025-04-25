@@ -1,7 +1,7 @@
 header{
   
   justify-content: center;
-  align-items: center;
+  /* align-items: center; */
  
 
   background-image: url(/assets/img/Background_Intro.png);
@@ -16,7 +16,7 @@ header{
 
   section {
     width: 68rem;
-    align-items: center;
+   /*  align-items: center; */
 
     #profile-photo{
       width: 11.2rem;
@@ -60,7 +60,6 @@ header{
       color: var(--gray-400);
       margin-bottom: 8rem;
     }
-  
 
   }
 

@@ -13,21 +13,16 @@ nav {
     width: 100%;
 
     justify-content: center;
-    align-items: center;
+    /* align-items: center; */
 
     gap:0.8rem;
     padding: .8rem 1.6rem .8rem 1.6rem;
-    
-
-   
-
 
     a {
       font: var(--text-md);
       color:var(--gray-500);
      
     }
-
 
   }
 
