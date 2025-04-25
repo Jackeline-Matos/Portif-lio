@@ -8,16 +8,16 @@
   font-size: 62.5%;
   	
   --font-family-title:"Asap", sans-serif;
-  --title-lg: 700 5.6rem/120% var(--font-family-title);
-  --title-md: 700 2.4rem/120% var(--font-family-title);
-  --title-sm: 700 1.6rem/120% var(--font-family-title);
+  --title-lg: 700 56px/120% var(--font-family-title);
+  --title-md: 700 24px/120% var(--font-family-title);
+  --title-sm: 700 16px/120% var(--font-family-title);
 
   --font-family-subtitle: "Inconsolata", monospace;
-  --subtitle: 400 2rem/120% var(--font-family-subtitle);
+  --subtitle: 400 20px/120% var(--font-family-subtitle);
 
   --font-family-text:"Maven Pro", sans-serif;
-  --text-md: 400 1.6rem/140% var(--font-family-text);
-  --text-sm: 400 1.4rem/140% var(--font-family-text);
+  --text-md: 400 16px/140% var(--font-family-text);
+  --text-sm: 400 14px/140% var(--font-family-text);
 
   --red: #E3646E;
   --purple: #BB72E9;

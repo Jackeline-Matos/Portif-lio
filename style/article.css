@@ -1,0 +1,62 @@
+#container-article{
+  background-color: var(--gray-100);
+
+  #text-my-service{
+    padding-block :8.8rem 5.6rem;
+
+    h1{
+      font: var(--subtitle);
+      color: var(--red);
+    }
+
+    p{
+      font: var(--title-md);
+      color:var(--gray-600);
+    }
+  }
+  
+} 
+
+
+article{
+  justify-content: center;
+  padding: 0 12rem 12rem 12rem;
+
+  
+  .article-card{
+
+    width: 28rem;
+    height: 15.5rem;
+    padding: 2rem;
+    margin-right: 2.4rem;
+
+    border-radius:1.2rem ;
+    border: 1px var(--gray-200) solid;
+
+    img{
+      width: 4.4rem;
+      /* padding-bottom: 2rem; */
+    }
+
+    #correction-img{
+      padding-block: .7rem;
+    }
+
+     h3{
+      font: var(--title-sm);
+      color:var(--gray-600);
+      padding-bottom: .8rem;
+      
+    }
+
+    p{
+      font: var(--text-sm);
+      color:var(--gray-500)
+
+    } 
+
+
+  }
+
+}
+
