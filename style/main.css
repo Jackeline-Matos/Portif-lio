@@ -1,6 +1,7 @@
 #container-main{
   background-color: var(--gray-200);
-  padding: 7.2rem 24rem 14.5rem 24rem;
+  padding: 7.2rem 12rem 14.5rem 12rem;
+  
 
 }
 
@@ -25,15 +26,15 @@
 
 main{
 
-
+width: 104rem ;
+height: 58.4rem;
 flex-wrap: wrap;
-justify-content: center;
-/* margin: 0 12rem 12rem 12rem; */
 
 gap:2.4rem;
- 
+
 
 .project-card{
+
 
     width: 33rem;
     padding: 1.2rem;
