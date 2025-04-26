@@ -1,6 +1,6 @@
 #container-main{
   background-color: var(--gray-200);
-  padding: 7.2rem 12rem 14.5rem 12rem;
+  padding: 7.2rem 24rem 14.5rem 24rem;
 
 }
 
@@ -28,9 +28,9 @@ main{
 
 flex-wrap: wrap;
 justify-content: center;
+/* margin: 0 12rem 12rem 12rem; */
 
 gap:2.4rem;
-margin: 0 12rem 12rem 12rem;
  
 
 .project-card{
