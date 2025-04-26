@@ -3,7 +3,7 @@ nav {
   justify-content: center;
 
   gap:1.6rem;
-  margin-block-end: 9.4rem  ;
+  margin-block-end: 18.3rem ;
 
   
   div {
@@ -27,5 +27,8 @@ nav {
   }
 
 
+}
 
+#arrowDown{
+  padding-bottom: 10rem;
 }

@@ -7,7 +7,8 @@ header{
   background-image: url(/assets/img/Background_Intro.png);
   background-size: cover;
   width:100%;
-  /*   */
+
+  padding: 12rem 16.3rem 0 16.3rem;
 
   
 }
