@@ -1,5 +1,4 @@
-![Texto alternativo](assets/img/FullProjekt)
-
+![Screen Caption Projekt Portifolio](/assets/img/FullProjekt.png)
 Project carried out in the second challenge of Rocketseat's Full-Stack training course
 
 Concepts that were practiced with this project
