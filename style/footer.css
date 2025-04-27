@@ -1,6 +1,7 @@
 footer {
   background-image: url(/assets/img/Background_Contacts.png);
-  background-size: cover;
+  background-size:cover;
+  background-repeat: no-repeat;
   width:100%;
 
   padding: 12.8rem 12rem 20rem 12rem;
@@ -32,26 +33,74 @@ margin-block: 4.8rem;
 .footer-card{
 
   background-color: var(--gray-300);
-
+  
   width: 40rem;
   padding: 2rem;
   margin-bottom: 1.6rem;
   gap: .8rem;
-
   border-radius: .8rem;
-
-
-
+  
   section{
     font: var(--text-md);
     color: var(--gray-500);
   }
 
+  &:hover{
+    border: solid var(--blue);
+  }
+   
   img{
     width: 2.8rem;
-  
   }
+
+  #linkedin, 
+  #instagram, 
+  #github, 
+  #email{
+    background-repeat: no-repeat;
+    background-size: contain;  /* Ajusta a imagem para caber dentro da div sem distorcer */
+    background-position: center; /* Centraliza a imagem */
+    width: 2.8rem;
+    height: 2.8rem;
+  }  
+
+  #linkedin{
+    background-image: url(/assets/icons/LinkedinLogo.svg);
+
+  }
+
+  #linkedin:hover{
+    background-image: url(/assets/icons/LinkedinLogoBlue.svg);
+  }
+
+  #instagram{
+    background-image: url(/assets/icons/InstagramLogo.svg);
+  }
+
+  #instagram:hover{
+    background-image: url(/assets/icons/InstagramLogoBlue.svg);
+  }
+
+  #github{
+    background-image: url(/assets/icons/GithubLogo.svg);
+  }
+
+  #github:hover{
+    background-image: url(/assets/icons/GithubLogoBlue.svg);
+  }
+
+  #email{
+    background-image: url(/assets/icons/Email.svg);
+  }
+
+  #email:hover{
+    background-image: url(/assets/icons/EmailBlue.svg);
+    
+  }
+
 }
+
+
 
 .arrow-up{
 
